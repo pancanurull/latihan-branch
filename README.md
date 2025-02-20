@@ -1,3 +1,2 @@
-# ini adalah respository untuk membuat branch baru
-
-GitHub itu asyik lo.
+# ini adalah respository untuk membuat branch baru di GitHub
+belajar GitHub Dicoding itu seru!
