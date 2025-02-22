@@ -1,2 +1,4 @@
 # ini adalah respository untuk membuat branch baru di GitHub
-belajar GitHub Dicoding itu seru!
+Belajar GitHub Dicoding itu seru!
+
+Apalagi belajarnya di Dicoding.
